@@ -10,5 +10,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/ayushbadgujar9/Leetquestions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [3099-harshad-number](https://github.com/ayushbadgujar9/Leetquestions/tree/master/3099-harshad-number) |
 | [3895-count-digit-appearances](https://github.com/ayushbadgujar9/Leetquestions/tree/master/3895-count-digit-appearances) |
 <!---LeetCode Topics End-->
