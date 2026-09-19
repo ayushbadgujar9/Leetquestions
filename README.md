@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1688-count-of-matches-in-tournament](https://github.com/ayushbadgujar9/Leetquestions/tree/master/1688-count-of-matches-in-tournament) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/ayushbadgujar9/Leetquestions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/ayushbadgujar9/Leetquestions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2652-sum-multiples](https://github.com/ayushbadgujar9/Leetquestions/tree/master/2652-sum-multiples) |
 | [3099-harshad-number](https://github.com/ayushbadgujar9/Leetquestions/tree/master/3099-harshad-number) |
@@ -42,10 +43,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/ayushbadgujar9/Leetquestions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [3731-find-missing-elements](https://github.com/ayushbadgujar9/Leetquestions/tree/master/3731-find-missing-elements) |
 ## Simulation
 |  |
 | ------- |
 | [1389-create-target-array-in-the-given-order](https://github.com/ayushbadgujar9/Leetquestions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1688-count-of-matches-in-tournament](https://github.com/ayushbadgujar9/Leetquestions/tree/master/1688-count-of-matches-in-tournament) |
+## Greedy
+|  |
+| ------- |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/ayushbadgujar9/Leetquestions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 <!---LeetCode Topics End-->
