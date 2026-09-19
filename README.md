@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1688-count-of-matches-in-tournament](https://github.com/ayushbadgujar9/Leetquestions/tree/master/1688-count-of-matches-in-tournament) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/ayushbadgujar9/Leetquestions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2652-sum-multiples](https://github.com/ayushbadgujar9/Leetquestions/tree/master/2652-sum-multiples) |
 | [3099-harshad-number](https://github.com/ayushbadgujar9/Leetquestions/tree/master/3099-harshad-number) |
@@ -41,4 +42,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3731-find-missing-elements](https://github.com/ayushbadgujar9/Leetquestions/tree/master/3731-find-missing-elements) |
+## Simulation
+|  |
+| ------- |
+| [1688-count-of-matches-in-tournament](https://github.com/ayushbadgujar9/Leetquestions/tree/master/1688-count-of-matches-in-tournament) |
 <!---LeetCode Topics End-->
