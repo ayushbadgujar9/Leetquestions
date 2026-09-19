@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1389-create-target-array-in-the-given-order](https://github.com/ayushbadgujar9/Leetquestions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/ayushbadgujar9/Leetquestions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/ayushbadgujar9/Leetquestions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3731-find-missing-elements](https://github.com/ayushbadgujar9/Leetquestions/tree/master/3731-find-missing-elements) |
@@ -45,5 +46,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1389-create-target-array-in-the-given-order](https://github.com/ayushbadgujar9/Leetquestions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1688-count-of-matches-in-tournament](https://github.com/ayushbadgujar9/Leetquestions/tree/master/1688-count-of-matches-in-tournament) |
 <!---LeetCode Topics End-->
